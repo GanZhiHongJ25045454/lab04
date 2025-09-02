@@ -1,0 +1,60 @@
+/*
+filename: lab04.css
+author: GAN ZHI HONG
+created: 03.09.2025
+last modified: 03.09.2025
+description: lab04.html
+*/
+
+ * { font-family: calibri, sans-serif; }  
+
+ /* Header section styles */
+h1 { 
+    color: purple; 
+    font-size: 2em; 
+    font-weight: bold; 
+}
+
+/* Aside styles */
+aside p {
+    font-style: italic;
+}
+
+/* Navigation menu styles */
+.navigation {
+    padding: 3px 2px;
+    color: black;
+    text-decoration:none;
+    border: 3px solid rgb(211, 209, 209);
+}
+
+/* Horizontal rule styles */
+hr {
+    height: 2px;
+    background-color: black;
+}
+
+/* Navigation destination(title) styles */
+h2 {
+    color: purple;
+}
+
+/* RED Heading styles*/
+.first_h3 {
+    color: red;
+}
+
+/* Table styles*/
+table,th,td {
+    border: 2px double black
+}
+
+/* Description of hyperlinks styles*/
+.hyperlinks {
+    color:black;
+}
+
+/* Title of images*/
+.Images {
+    text-align: center;
+}
