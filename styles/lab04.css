@@ -31,7 +31,6 @@ aside p {
     background-color:rgb(153, 152, 152)
 }
    
-
 /* Horizontal rule styles */
 hr {
     height: 2px;
@@ -46,6 +45,11 @@ h2 {
 /* RED Heading styles*/
 .first_h3 {
     color: red;
+}
+
+/* RED Heading styles*/
+.special {
+    color: orange
 }
 
 /* Table styles*/
