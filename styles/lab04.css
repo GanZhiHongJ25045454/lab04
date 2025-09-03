@@ -27,6 +27,10 @@ aside p {
     text-decoration:none;
     border: 3px solid rgb(211, 209, 209);
 }
+.navigation:hover {
+    background-color:rgb(153, 152, 152)
+}
+   
 
 /* Horizontal rule styles */
 hr {
